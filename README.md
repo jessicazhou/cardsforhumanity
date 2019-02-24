@@ -11,3 +11,9 @@ READING THUS FAR 📖📖📖📖
 -Reference on pushing to Heroku https://pusher.com/tutorials/chrome-extension-cryptocurrency-part-1
 
 -All of the app samples https://github.com/GoogleChrome/chrome-app-samples/
+
+-background html vs background js -- feelin' so seeeeen https://stackoverflow.com/questions/24978473/background-html-vs-background-js-chrome-extension
+
+-URL permissions: https://stackoverflow.com/questions/42601383/chrome-extension-what-is-the-point-of-url-permissions
+
+-manage events w background scripts https://developer.chrome.com/extensions/background_pages
