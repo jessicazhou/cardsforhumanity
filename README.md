@@ -2,8 +2,7 @@
 baby nobly struggles through chrome extension architecture
 
 
-READING THUS FAR 📖📖📖📖
-
+READING THUS FAR 
 -Boilerplate set up https://extensionizr.com/!#{"modules":["browser-mode","with-bg","with-persistent-bg","with-custom-options","no-override"],"boolean_perms":[],"match_ptrns":[]}
 
 -High level overview: https://coderwall.com/p/hkmedw/understanding-chrome-extensions
