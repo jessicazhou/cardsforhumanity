@@ -20,7 +20,7 @@
   "options_page": "src/options_custom/index.html",
   "page_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "there's a G in this URL!"//,
+    "default_title": "Page action trigger"//,
     //"default_popup": "src/page_action/page_action.html"
   }/*,
   "browser_action": { //can have icon tooltip, badge, popup
